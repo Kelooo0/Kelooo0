@@ -10,8 +10,8 @@ I'm a Python developer from Poland. Currently, I focus on building web applicati
 
 ## Projects
 - **ClientFlow** – A CRM web application for managing clients, creating notes, and handling tasks
-- **Job Scraper** – A Python script that uses Playwright to scrape job listings from WeWorkRemotely based on a provided keyword and displays the data
+- **Job Aggregator** – A Python script that uses Playwright to scrape job listings from WeWorkRemotely based on a provided keyword and displays structured results
 
 ## Contact
 - Email: michockidominik1@gmail.com
-- LinkedIn: www.linkedin.com/in/dominik-michocki-3b570b404
+- LinkedIn: https://www.linkedin.com/in/dominik-michocki-3b570b404
