@@ -1,16 +1,18 @@
 # Hi, I'm Dominik Michocki
 
-I'm a Python developer from Poland. Currently, I focus on building web applications and automation tools for small businesses.
+I'm a Python developer from Poland. Currently, I focus on building applications and systems based on FastAPI framework that work on PostgreSQL database
+and feature AI service. Right now I am learning to use vector databases and build RAG systems.
 
 ## Tech Stack
 - Python
-- Flask
-- SQL / SQLite / SQLAlchemy
-- HTML, CSS
+- FastAPI
+- Pydantic
+- PostgreSQL
+- Dockerization
 
 ## Projects
-- **ClientFlow** – A CRM web application for managing clients, creating notes, and handling tasks
-- **Job Aggregator** – A Python script that uses Playwright to scrape job listings from WeWorkRemotely based on a provided keyword and displays structured results
+- **Intelligent Journaler** – A REST API for managing journal entries with AI-powered insights
+- **Commit Generator** – A CLI tool used for fast commit generation in git repositories
 
 ## Contact
 - Email: michockidominik1@gmail.com
