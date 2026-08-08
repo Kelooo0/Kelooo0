@@ -19,7 +19,7 @@ I'm a Python developer from Poland focused on building backend systems and AI-po
 
 A full-stack journal management application featuring secure authentication, AI-generated insights, RAG-based search, and an interactive journal assistant.
 
-### Commit Generator
+### [Commit Generator](https://github.com/Kelooo0/commit-generator)
 
 A Python CLI tool that analyzes repository changes and generates Git commit messages.
 
