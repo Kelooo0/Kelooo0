@@ -19,6 +19,10 @@ I'm a Python developer from Poland focused on building backend systems and AI-po
 
 A full-stack journal management application featuring secure authentication, AI-generated insights, RAG-based search, and an interactive journal assistant.
 
+### [QuoteAI](https://github.com/Kelooo0/quoteai)
+
+An AI-powered tool for SEO agencies that analyzes client messages and generates structured offer proposals.
+
 ### [Commit Generator](https://github.com/Kelooo0/commit-generator)
 
 A Python CLI tool that analyzes repository changes and generates Git commit messages.
